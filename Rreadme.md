@@ -1,0 +1,1 @@
+The project is a digital website for buying clothes
